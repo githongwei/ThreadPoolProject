@@ -56,9 +56,9 @@ public class Const {
 		//企业ID
 		public static final Integer ID = 9759;
 		//密码
-		public static final String PASSWORD = "qcw520com";
+		public static final String PASSWORD = "";
 		//企业名称
-		public static final String ACCOUNT = "万花瞳文创科技";
+		public static final String ACCOUNT = "";
 		
 		// 请求地址
 		public static final String URL = "http://121.43.192.197:8888/sms.aspx"; 
@@ -103,10 +103,10 @@ public class Const {
 	public static final class FTP{
 		
 		/**文件获取地址--linux*/
-		public static final String FILE_DOWN_URL = "http://47.93.194.65/static_images/";
+		public static final String FILE_DOWN_URL = "http://127.0.0.1/static_images/";
 		
 		/**ftp服务器地址*/
-		public static final String FTP_IP = "47.93.194.65";
+		public static final String FTP_IP = "127.0.0.1";
 		
 		/**登录账号*/
 		public static final String FTP_USER_NAME = "ftp";
@@ -115,7 +115,7 @@ public class Const {
 		public static final int FTP_PROT = 21;
 		
 		/**登录密码*/
-		public static final String FTP_USER_PASSWORD = "Qcw123456Ftp";
+		public static final String FTP_USER_PASSWORD = "";
 		
 	}
 	
